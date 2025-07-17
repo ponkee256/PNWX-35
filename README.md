@@ -17,10 +17,12 @@ An open source 3.5in FPV drone frame by PNW Freestyle FPV Club, heavily inspired
   *Arm/Keystone thickness can be changed as desired.  Adjust M3 x 10mm screw length and front standoffs as needed*
   
 ## Hardware
-- M3 x 6mm button head screws (12pc)
-- M3 x 10mm button head screws (5pc)
+- M3 x 6mm countersunk screws (8pc)
+- M3 x 6mm button head screws (2pc)
+- M3 x 10mm countersunk screws (5pc)
 - M3 x 25mm standoff, 6mm OD (4pc)
 - M3 x 19mm standoff, 6mm OD (2pc)
+- M3 x ??mm countersunk screws (stack) (4pc)
 
   *Standoff height and OD can be changed as desired.  Front standoffs must be 6mm taller than rear.*
 
