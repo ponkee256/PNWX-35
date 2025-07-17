@@ -1,4 +1,4 @@
-# PNWX 3.5 Frame
+# PNWX 3.5" Frame
 
 An open source 3.5in FPV drone frame by PNW Freestyle FPV Club, heavily inspired by the Ummagawd Botgrinder Grinderino.
 
