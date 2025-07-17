@@ -14,7 +14,7 @@ An open source 3.5in FPV drone frame by PNW Freestyle FPV Club, heavily inspired
 - 4mm thickness arms
 - 2mm thickness body plates
 
-  *Arm/Keystone thickness can be changed as desired.  Adjust M3 x 10mm screw length as needed*
+  *Arm/Keystone thickness can be changed as desired.  Adjust M3 x 10mm screw length and front standoffs as needed*
   
 ## Hardware
 - M3 x 6mm button head screws (12pc)
