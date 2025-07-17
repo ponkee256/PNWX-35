@@ -2,7 +2,7 @@
 
 ![angleview](images/angle_view.png)
 
-
+![topview](images/top_view.png)
 
 An open source 3.5in FPV drone frame by PNW Freestyle FPV Club, heavily inspired by the Ummagawd Botgrinder Grinderino.
 
