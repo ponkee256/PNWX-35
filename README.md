@@ -31,5 +31,5 @@ An open source 3.5in FPV drone frame by PNW Freestyle FPV Club, heavily inspired
 - M3 x 18mm standoff, 5mm OD (2pc)
 - M3 x 25mm countersunk screws (stack) (4pc)
 
-  _Standoff height and OD can be changed as desired. Front standoffs must be 6mm taller than rear._
+  _Standoff height can be changed as desired. Front standoffs must be 7mm taller than rear._
  
