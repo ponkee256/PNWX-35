@@ -24,9 +24,9 @@ An open source 3.5in FPV drone frame by PNW Freestyle FPV Club, heavily inspired
 
 ## Hardware
 
-- M3 x 6mm countersunk screws (8pc)
-- M3 x 6mm button head screws (2pc)
-- M3 x 10mm countersunk screws (5pc)
+- M3 x 8mm countersunk screws (8pc)
+- M3 x 8mm button head screws (4pc)
+- M3 x 11mm countersunk screws (5pc)
 - M3 x 25mm standoff, 5mm OD (4pc)
 - M3 x 18mm standoff, 5mm OD (2pc)
 - M3 x 25mm countersunk screws (stack) (4pc)
