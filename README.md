@@ -1,4 +1,6 @@
 # PNWX 3.5" Frame
+### Progress
+Prototype 1 has been ordered to test general flight characteristics and assembly.  Revisions are already being made for prototype 2.
 
 ![angleview](images/angle_view.png)
 
